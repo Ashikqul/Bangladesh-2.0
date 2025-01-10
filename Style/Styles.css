@@ -1,0 +1,77 @@
+body{
+    background-color: #F5F5F5;
+}
+
+/* header style */
+
+
+
+
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+margin: 24px 160px;
+
+
+}
+nav ul li{
+    list-style: none;
+}
+nav ul{
+    display: flex;
+}
+.btn-primary{
+    font-weight: 116px;
+    font-weight: 52px;
+    color: #006A50;
+    border : 5px 30px;
+    font-size: 18px;
+    
+
+}
+/* banner styles */
+
+.banner{
+    display: flex;
+    margin: 1px 90px 120px;
+    background-color: #C6E4D6;
+    width: 1280px;
+    height: 560px;
+
+}
+.banner-content{
+    max-width: 650px;
+}
+
+
+
+.banner .button{
+    background-color: #006A50;
+    color: #FFFFFF;
+    border: none;
+    width: 270px;
+    height: 56px;
+    font-weight: 600px;
+    font-size: 18px;
+}
+
+.banner-welcome{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #0E0E0E;
+}
+.banner-title{
+    font-size:56px ;
+    font-weight: bold;
+    width: 622px;
+    height: 201px;
+    
+}
+.banner-profile-pic{
+    width: 474;
+    height: 250;
+    margin-left: 50px;
+}
+.
