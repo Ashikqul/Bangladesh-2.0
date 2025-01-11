@@ -1,5 +1,6 @@
 body{
     background-color: #F5F5F5;
+    margin: 80px;
 }
 
 /* header style */
@@ -60,7 +61,7 @@ nav ul{
 .banner-welcome{
     font-size: 24px;
     font-weight: 500px;
-    color: #0E0E0E;
+    color: #0E0E0E
 }
 .banner-title{
     font-size:56px ;
@@ -74,4 +75,35 @@ nav ul{
     height: 250;
     margin-left: 50px;
 }
-.
+
+
+/* Visions section styles */
+.Visions-container{
+    display: flex;
+    gap: 24px;
+
+}
+.Vision-description{
+    width: 346px;
+    height: 108px;
+    margin: 12px;
+}
+.card button {
+    background-color: #2ecc71;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+  
+  .card button:hover 
+    background-color: #27ae60; 
+  }
+
+
+.Vision{
+    border-inline-start-color: #5490F5 ;
+}
