@@ -77,33 +77,11 @@ nav ul{
 }
 
 
-/* Visions section styles */
-.Visions-container{
-    display: flex;
-    gap: 24px;
+/* Visions of "Bangladesh */
 
-}
-.Vision-description{
-    width: 346px;
-    height: 108px;
-    margin: 12px;
-}
-.card button {
-    background-color: #2ecc71;
-    color: #ffffff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-
-  
-  .card button:hover 
-    background-color: #27ae60; 
-  }
-
-
-.Vision{
-    border-inline-start-color: #5490F5 ;
-}
+.recent-news {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+    }
